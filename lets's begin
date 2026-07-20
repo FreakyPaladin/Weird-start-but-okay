@@ -2,7 +2,100 @@ print("Lawrence Eshun")
 print('o----')
 print(' ||||')
 print('*' * 10)
+print(' ')
+print(' ')
 
 print('_/\_')
 print('\  /')
 print("//",'\\\\')
+print(' ')
+print(' ')
+
+
+print(' o')
+print('/|\\')
+print('/ \\')
+print(' ')
+print(' ')
+print(' ')
+print(' ')
+
+
+
+
+print('')
+print('   \\o')
+print('    |\\')
+print('   / \\')
+print(' ')
+print(' ')
+print(' ')
+print(' ')
+print(' ')
+print(' ')
+
+print('|-|')
+print('|-|')
+print('|-|')
+print('|-|')
+print('|-|')
+print('|-|')
+print(' ')
+print(' ')
+print(' ')
+print(' ')
+
+
+print('|_o_|')
+print('  |')
+print(' / \\')
+
+
+print(' ')
+print(' ')
+print(' ')
+print(' ')
+
+
+print(' \\ /')
+print('  |/')
+print('  o')
+print(' /')
+print(' ')
+print(' ')
+print(' ')
+print(' ')
+
+
+
+print('  /',  '  /')
+print('o----')
+print('  \\' ,  '  \\')
+print(' ')
+print(' ')
+print(' ')
+
+
+print('     ______')
+print('    /  |   \\')
+print('-----------------')
+print('|___o________O___|')
+print(' ')
+print(' ')
+print(' ')
+print(' ')
+print(' ')
+
+
+print('|' * 10)
+print('\\' * 15)
+
+
+x="Hello " * 5
+print(x)
+print(' ')
+print(' ')
+print(' ')
+print(' ')
+
+print("Recently, this has been my best work yet. Can't wait to do more yk", ':-)')
